@@ -1,0 +1,21 @@
+.image{
+    width: 96em;
+    height: 44.5em;
+    z-index:1;;
+    background-image:url('../../assets/Image/image.jpg');
+    background-position:50% 50%;
+    position: relative;
+}
+
+.form-login{
+    position: absolute;
+    margin-top: 150px;
+}
+
+.username{
+    width: 350px;
+}
+
+.password{
+    width: 350px;
+}

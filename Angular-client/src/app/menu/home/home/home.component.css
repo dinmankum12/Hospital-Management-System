@@ -1,0 +1,12 @@
+/* .image{
+    height:40em; background-size:cover; width:auto;
+    background-image:url('../../../../assets/Image/home.jpeg');
+    background-position:50% 50%;
+    position: relative;
+} */
+
+.item img{  
+    width: 96em;
+    height: 44.5em;
+    z-index:1;
+}
